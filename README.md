@@ -1,13 +1,14 @@
-# Como installar quick.db
+# Como instalar quick.db
 
 
 #### Baixe: https://www.microsoft.com/en-us/download/details.aspx?id=40773
 
-#### Clique com o botão direito no Power Shell e clique em abrir como administrador.
+#### Botão windows; escreva: **Power Shell**
 
-#### Utilize: npm install --global windows-build-tools --vs2015
+#### Botão direito: abrir como administrador.
 
-#### Baixe a versão mais recente do Python
-###### - https://www.python.org/downloads/
+#### Dentro do Power Shell copie e cole: **npm install --global windows-build-tools --vs2015**
 
-### Apos fazer todas as etapas acima, utilize <b> npm i quick.db --save <b> no terminal do vs code
+#### Baixe a versão mais recente do [Python clicando aqui](https://www.python.org/downloads/)
+
+### Apos concluir as etapas copie e cole: **`<b> npm i quick.db --save <b> no terminal do vs code`**
