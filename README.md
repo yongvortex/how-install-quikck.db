@@ -7,7 +7,7 @@
 
 #### Botão direito: abrir como administrador.
 
-#### Dentro do Power Shell copie e cole: **npm install --global windows-build-tools --vs2015**
+#### Dentro do Power Shell copie e cole: **`npm install --global windows-build-tools --vs2015`**
 
 #### Baixe a versão mais recente do [Python clicando aqui](https://www.python.org/downloads/)
 
